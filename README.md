@@ -5,7 +5,7 @@ This is a simple personal website displaying a profile card with an image and so
 
 ## Preview
 
-![output](Screenshot.png)
+![Preview](Screenshot.png)
 
 ## Description
 
