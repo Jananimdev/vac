@@ -5,7 +5,7 @@ This is a simple personal website displaying a profile card with an image and so
 
 ## Preview
 
-![Preview](screenshot.png)
+![output](screenshot.png)
 
 ## Description
 
@@ -26,7 +26,7 @@ This webpage contains a profile card with the following information:
 
 ## Author
 
-- Name: Your Name
+- Name: Janani
 - GitHub: [jananimdev](https://github.com/Jananimdev/Jananimdev)
 
 
