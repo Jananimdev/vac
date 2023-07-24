@@ -26,7 +26,7 @@ This webpage contains a profile card with the following information:
 
 ## Author
 
-- Name: Janani
+- Name: Janani.M
 - GitHub: [jananimdev](https://github.com/Jananimdev/Jananimdev)
 
 
