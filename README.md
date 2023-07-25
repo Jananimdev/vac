@@ -1,5 +1,5 @@
 # vac
-# Personal Website
+# Simple Website
 
 This is a simple personal website displaying a profile card with an image and some text.
 
